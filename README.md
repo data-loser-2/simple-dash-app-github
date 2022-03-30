@@ -1,4 +1,5 @@
-
 # simple-dash-app-github
-make a change
-make a second change
+
+Trying to integrate Heroku with GitHub for pipeline testing.
+
+Code taken from gitlab  heroku-simple-dash-app-v1
